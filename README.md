@@ -8,7 +8,7 @@ Utilisation d'un service d'interaction : Le script peut interagir avec un servic
 
 Utilisation :
 
-    ./script.sh <fichier_de_domaines> <interactsh_url> <fichier_de_sortie>
+    ./exp.sh <fichier_de_domaines> <interactsh_url> <fichier_de_sortie>
 
 <fichier_de_domaines> : Fichier contenant une liste de domaines à tester.
 <interactsh_url> : URL du service Interactsh pour récupérer des retours d'exploitation.
